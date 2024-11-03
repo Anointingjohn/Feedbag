@@ -1,4 +1,4 @@
-import UserDashboard from "@/components/Dashboard/UserDashboard";
+import UserDashboard from "@/components/Dashbaord/UserDashboard";
 import Footer from "@/components/Footer/Footer";
 import Navbar from "@/components/Navbar/Navbar";
 import React from "react";
