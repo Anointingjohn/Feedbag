@@ -24,24 +24,32 @@ Node.js (recommended version 18 or later)
 Git
 
 
+## **Installation**
+
+1. Clone the project repository to your local machine:
+`git clone https://github.com/yourusername/feedbag-agrihub.git`
 
 
-Clone the project repository to your local machine:
-
-bash
-Copy code
-git clone https://github.com/yourusername/feedbag-agrihub.git
-Navigate to the Project Directory
-
+2. Navigate to the Project Directory
 Change to the project’s root directory:
 
-bash
-Copy code
-cd feedbag-agrihub
-Install Dependencies
+`cd feedbag-agrihub`
 
+
+3. Install Dependencies
 Install the necessary packages:
 
-bash
-Copy code
-npm install
+`npm install`
+
+
+
+## **Key Achievements**
+This version of Feedbag Agrihub includes the following key achievements:
+
+User Interface: Developed a responsive and user-friendly interface, allowing users to interact seamlessly with the platform.
+Blockchain-Ready Architecture: Prepared for future Algorand integration, ensuring smooth addition of blockchain functionalities.
+Responsive Design: Implemented a responsive layout with Tailwind CSS, making the application accessible across devices.
+Modular Codebase: The code is structured for scalability, allowing for easy addition of backend logic and smart contract features.
+
+
+For a closer look at the UI components, see the files in the `src/components` folder.
