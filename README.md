@@ -23,7 +23,7 @@ This project leverages a modern tech stack to ensure scalability, performance, a
 ## **Running the Code**
 Follow the steps below to set up and run the Feedbag Agrihub frontend on your local machine.
 
-**Prerequisites**
+## **Prerequisites**
 Node.js (recommended version 18 or later)
 Git
 
