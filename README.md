@@ -12,14 +12,14 @@ Blockchain-Powered Network: Establishes a transparent and rewarding ecosystem fo
 ## **Technical Elements & Technologies Used**
 This project leverages a modern tech stack to ensure scalability, performance, and future compatibility with blockchain integration.
 
-### Frontend Framework: Built with Next.js for server-side rendering and optimized performance.
-Blockchain-Ready Architecture: Although Algorand functionality is not yet implemented, the structure is prepared for blockchain and dApp integration.
+**Frontend Framework**: Built with Next.js for server-side rendering and optimized performance.
+**Blockchain-Ready Architecture**: Although Algorand functionality is not yet implemented, the structure is prepared for blockchain and dApp integration.
 Styling: Uses Tailwind CSS for efficient and responsive styling.
 
 ## **Running the Code**
 Follow the steps below to set up and run the Feedbag Agrihub frontend on your local machine.
 
-Prerequisites
+**Prerequisites**
 Node.js (recommended version 18 or later)
 Git
 
@@ -31,7 +31,7 @@ Git
 ```bash 
 git clone https://github.com/yourusername/Feedbag.git
 ```
-3. Navigate to the Project Directory
+3. **Navigate to the Project Directory**
 Change to the project’s root directory:
 
 ```bash 
@@ -39,7 +39,7 @@ cd Feedbag
 ```
 
 
-3. Install Dependencies
+3. **Install Dependencies**
 Install the necessary packages:
 
 ```bash
@@ -51,10 +51,10 @@ npm install
 ## **Key Achievements**
 This version of Feedbag Agrihub includes the following key achievements:
 
-### User Interface: Developed a responsive and user-friendly interface, allowing users to interact seamlessly with the platform.
-### Blockchain-Ready Architecture : Prepared for future Algorand integration, ensuring smooth addition of blockchain functionalities.
-### Responsive Design: Implemented a responsive layout with Tailwind CSS, making the application accessible across devices.
-### Modular Codebase: The code is structured for scalability, allowing for easy addition of backend logic and smart contract features.
+**User Interface: Developed a responsive and user-friendly interface, allowing users to interact seamlessly with the platform.
+**Blockchain-Ready Architecture : Prepared for future Algorand integration, ensuring smooth addition of blockchain functionalities.
+**Responsive Design**: Implemented a responsive layout with Tailwind CSS, making the application accessible across devices.
+**Modular Codebase**: The code is structured for scalability, allowing for easy addition of backend logic and smart contract features.
 
 
 For a closer look at the UI components, see the files in the `components` folder.
@@ -63,7 +63,7 @@ For a closer look at the UI components, see the files in the `components` folder
 
 While this phase focuses on the frontend, we have mapped out the steps needed to integrate Algorand for a decentralized, transparent supply chain:
 
-### Step 1: Set Up Algorand Environment
+**Step 1: Set Up Algorand Environment
 Create an Algorand Wallet: We recommend using [Pera Wallet](https://perawallet.app/)
  or [Algorand Wallet](https://developer.algorand.org/tutorials/adding-transaction-capabilities-dapp-using-algosigner/)  for development.
 
@@ -79,9 +79,9 @@ npm install algosdk
 ### Step 2: Smart Contract Development
 We plan to leverage Algorand’s smart contract capabilities for verifying food sources and incentivizing user engagement.
 
-1. ### Smart Contract Design: Algorand’s ASC1 (Algorand Smart Contract 1) will facilitate transparency in the supply chain, tracking key details like origin, batch numbers, and dates.
+1. **Smart Contract Design**: Algorand’s ASC1 (Algorand Smart Contract 1) will facilitate transparency in the supply chain, tracking key details like origin, batch numbers, and dates.
 
-2. ### Reward System: By implementing token rewards, we can incentivize contributions from various stakeholders (farmers, aggregators, consumers).
+2. **Reward System**: By implementing token rewards, we can incentivize contributions from various stakeholders (farmers, aggregators, consumers).
 
 
 ### Step 3: Sample Transaction Code
@@ -118,9 +118,9 @@ Our vision for the Feedbag Agrihub CAF Marketplace includes using Algorand's blo
 ## Why Algorand for Payments?
 Algorand’s blockchain provides several key advantages for our CAF Marketplace:
 
-### Speed: Algorand processes transactions in seconds, making it ideal for a real-time marketplace.
-### Low Fees: Algorand’s transaction fees are minimal, keeping costs low for all users.
-### Scalability: Algorand’s network can handle a large number of transactions, making it suitable for scaling our platform as the user base grows.
+ **Speed**: Algorand processes transactions in seconds, making it ideal for a real-time marketplace.
+ **Low Fees**: Algorand’s transaction fees are minimal, keeping costs low for all users.
+ **Scalability**: Algorand’s network can handle a large number of transactions, making it suitable for scaling our platform as the user base grows.
 
 ### Sample Code: Payment with `algosdk`
 Below is a sample code snippet demonstrating how a payment transaction would work using `algosdk` on the Algorand blockchain
@@ -152,9 +152,9 @@ async function sendTransaction(senderAddress, receiverAddress, amount) {
 ```
 
 ## **Next Steps for CAF Payment Integration**
-### User Wallet Integration: We’ll incorporate wallet options (e.g., Pera Wallet or Algosigner Wallet) for seamless user transactions on the marketplace.
-### Payment Workflow: Implement payment flows such as escrow and refunds, ensuring smooth transactions between buyers and sellers.
-### Smart Contract Integration: Smart contracts will be added to automate transactions, add conditions, and enhance security for all parties involved.
+**User Wallet Integration**: We’ll incorporate wallet options (e.g., Pera Wallet or Algosigner Wallet) for seamless user transactions on the marketplace.
+**Payment Workflow**: Implement payment flows such as escrow and refunds, ensuring smooth transactions between buyers and sellers.
+**Smart Contract Integration**: Smart contracts will be added to automate transactions, add conditions, and enhance security for all parties involved.
 
 This roadmap ensures that the CAF Marketplace will be ready for a secure, blockchain-backed payment system in the future.
 
@@ -162,6 +162,6 @@ This roadmap ensures that the CAF Marketplace will be ready for a secure, blockc
 ## **Future Enhancements**
 Our vision for Feedbag Agrihub goes beyond the current phase. Here’s what’s next:
 
-### Deploy to MainNet: After successful testing on TestNet, we’ll deploy smart contracts on Algorand’s MainNet for real-world use.
-### Enhanced Smart Contracts: Using Algorand’s stateful contracts, we’ll implement advanced transactions to handle multi-step actions.
-### Expanded Reward System: Future updates may introduce loyalty points, tokenomics, or even staking mechanisms to further engage users.
+ **Deploy to MainNet**: After successful testing on TestNet, we’ll deploy smart contracts on Algorand’s MainNet for real-world use.
+ **Enhanced Smart Contracts**: Using Algorand’s stateful contracts, we’ll implement advanced transactions to handle multi-step actions.
+ **Expanded Reward System**: Future updates may introduce loyalty points, tokenomics, or even staking mechanisms to further engage users.
