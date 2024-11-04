@@ -46,7 +46,7 @@ Install the necessary packages:
 ## **Key Achievements**
 This version of Feedbag Agrihub includes the following key achievements:
 
-User Interface: Developed a responsive and user-friendly interface, allowing users to interact seamlessly with the platform.
+*User Interface*: Developed a responsive and user-friendly interface, allowing users to interact seamlessly with the platform.
 Blockchain-Ready Architecture: Prepared for future Algorand integration, ensuring smooth addition of blockchain functionalities.
 Responsive Design: Implemented a responsive layout with Tailwind CSS, making the application accessible across devices.
 Modular Codebase: The code is structured for scalability, allowing for easy addition of backend logic and smart contract features.
