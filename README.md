@@ -55,9 +55,9 @@ npm install
 ## **Key Achievements**
 This version of Feedbag Agrihub includes the following key achievements:
 
-**User Interface: Developed a responsive and user-friendly interface, allowing users to interact seamlessly with the platform.
+**User Interface**: Developed a responsive and user-friendly interface, allowing users to interact seamlessly with the platform.
 
-**Blockchain-Ready Architecture : Prepared for future Algorand integration, ensuring smooth addition of blockchain functionalities.
+**Blockchain-Ready Architecture**: Prepared for future Algorand integration, ensuring smooth addition of blockchain functionalities.
 
 **Responsive Design**: Implemented a responsive layout with Tailwind CSS, making the application accessible across devices.
 
@@ -70,7 +70,7 @@ For a closer look at the UI components, see the files in the `components` folder
 
 While this phase focuses on the frontend, we have mapped out the steps needed to integrate Algorand for a decentralized, transparent supply chain:
 
-**Step 1: Set Up Algorand Environment
+**Step 1: Set Up Algorand Environment**
 Create an Algorand Wallet: We recommend using [Pera Wallet](https://perawallet.app/)
  or [Algorand Wallet](https://developer.algorand.org/tutorials/adding-transaction-capabilities-dapp-using-algosigner/)  for development.
 
