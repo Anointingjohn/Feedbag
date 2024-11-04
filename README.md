@@ -29,13 +29,13 @@ Git
 1. Clone the project repository to your local machine:
 
 ```bash 
-git clone https://github.com/yourusername/feedbag-agrihub.git
+git clone https://github.com/yourusername/Feedbag.git
 ```
 3. Navigate to the Project Directory
 Change to the project’s root directory:
 
 ```bash 
-cd feedbag-agrihub
+cd Feedbag
 ```
 
 
@@ -151,8 +151,8 @@ async function sendTransaction(senderAddress, receiverAddress, amount) {
 
 ```
 
-***Next Steps for CAF Payment Integration***
-User Wallet Integration: We’ll incorporate wallet options (e.g., Pera Wallet or MyAlgo Wallet) for seamless user transactions on the marketplace.
+**Next Steps for CAF Payment Integration**
+User Wallet Integration: We’ll incorporate wallet options (e.g., Pera Wallet or Algosigner Wallet) for seamless user transactions on the marketplace.
 Payment Workflow: Implement payment flows such as escrow and refunds, ensuring smooth transactions between buyers and sellers.
 Smart Contract Integration: Smart contracts will be added to automate transactions, add conditions, and enhance security for all parties involved.
 
