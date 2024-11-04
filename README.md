@@ -27,19 +27,20 @@ Git
 ## **Installation**
 
 1. Clone the project repository to your local machine:
-`git clone https://github.com/yourusername/feedbag-agrihub.git`
 
-
-2. Navigate to the Project Directory
+```bash 
+git clone https://github.com/yourusername/feedbag-agrihub.git
+```
+3. Navigate to the Project Directory
 Change to the project’s root directory:
 
-`cd feedbag-agrihub`
+```cd feedbag-agrihub```
 
 
 3. Install Dependencies
 Install the necessary packages:
 
-`npm install`
+```npm install```
 
 
 
