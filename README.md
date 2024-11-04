@@ -126,7 +126,9 @@ Our vision for the Feedbag Agrihub CAF Marketplace includes using Algorand's blo
 Algorand’s blockchain provides several key advantages for our CAF Marketplace:
 
  **Speed**: Algorand processes transactions in seconds, making it ideal for a real-time marketplace.
+ 
  **Low Fees**: Algorand’s transaction fees are minimal, keeping costs low for all users.
+ 
  **Scalability**: Algorand’s network can handle a large number of transactions, making it suitable for scaling our platform as the user base grows.
 
 ### Sample Code: Payment with `algosdk`
