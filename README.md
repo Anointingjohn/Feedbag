@@ -153,8 +153,11 @@ async function sendTransaction(senderAddress, receiverAddress, amount) {
 
 ## **Next Steps for CAF Payment Integration**
 **User Wallet Integration**: We’ll incorporate wallet options (e.g., Pera Wallet or Algosigner Wallet) for seamless user transactions on the marketplace.
+
 **Payment Workflow**: Implement payment flows such as escrow and refunds, ensuring smooth transactions between buyers and sellers.
+
 **Smart Contract Integration**: Smart contracts will be added to automate transactions, add conditions, and enhance security for all parties involved.
+
 
 This roadmap ensures that the CAF Marketplace will be ready for a secure, blockchain-backed payment system in the future.
 
@@ -163,5 +166,9 @@ This roadmap ensures that the CAF Marketplace will be ready for a secure, blockc
 Our vision for Feedbag Agrihub goes beyond the current phase. Here’s what’s next:
 
  **Deploy to MainNet**: After successful testing on TestNet, we’ll deploy smart contracts on Algorand’s MainNet for real-world use.
+ 
+ 
  **Enhanced Smart Contracts**: Using Algorand’s stateful contracts, we’ll implement advanced transactions to handle multi-step actions.
+
+ 
  **Expanded Reward System**: Future updates may introduce loyalty points, tokenomics, or even staking mechanisms to further engage users.
