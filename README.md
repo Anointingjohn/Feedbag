@@ -112,7 +112,7 @@ npm install @perawallet/connect
 
 ```
 
-## ** Payment Integration on CAF Marketplace with Algorand**
+## **Payment Integration on CAF Marketplace with Algorand**
 Our vision for the Feedbag Agrihub CAF Marketplace includes using Algorand's blockchain to handle fast, secure, and low-cost payments. This setup will allow farmers, aggregators, and consumers to conduct transactions in a decentralized and efficient manner.
 
 Why Algorand for Payments?
