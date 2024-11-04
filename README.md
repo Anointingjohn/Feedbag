@@ -57,7 +57,7 @@ This version of Feedbag Agrihub includes the following key achievements:
 *Modular Codebase*: The code is structured for scalability, allowing for easy addition of backend logic and smart contract features.
 
 
-For a closer look at the UI components, see the files in the `src/components` folder.
+For a closer look at the UI components, see the files in the `components` folder.
 
 ## **Building on Algorand: Our Roadmap to Blockchain Integration**
 
