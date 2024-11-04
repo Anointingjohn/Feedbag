@@ -1,6 +1,6 @@
 ## **Feedbag Agrihub**
 
-Feedbag Agrihub is a dual-solution platform that revolutionizes food production through soil-less farming and a blockchain-powered network. The platform connects and rewards active players in the food supply chain (farmers, aggregators, and consumers), transforming the way we grow, distribute, and consume food.
+Feedbag Agrihub is an on-chain marketplace addressing post-harvest loss, market inaccessibility, and climate impact by connecting and rewarding African farmers, aggregators, and consumers from farm to table. Our platform leverages blockchain for transparency and AI for personalized consumer purchases, creating a sustainable, efficient, and equitable food supply chain.
 
 
 ## **Project Overview**
