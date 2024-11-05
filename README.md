@@ -4,9 +4,7 @@ Feedbag Agrihub is an on-chain marketplace addressing post-harvest loss, market 
 
 
 ## **Project Overview**
-Feedbag Agrihub focuses on two primary areas:
-
-**Soil-less Farming**: Utilizes innovative farming techniques to enhance food production without traditional soil-based methods, promoting sustainability and efficiency in agriculture.
+Feedbag Agrihub focuses on:
 
 **Blockchain-Powered Network**: Establishes a transparent and rewarding ecosystem for stakeholders in the food supply chain. Though this submission does not yet include Algorand smart contracts, the frontend is designed for future blockchain integration.
 
